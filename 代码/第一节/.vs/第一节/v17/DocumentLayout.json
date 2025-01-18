@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\C\\ACwing\\ACwingOJ\\\u7B2C\u4E00\u8282\\",
+  "WorkspaceRootPath": "D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u7B2C\u4E00\u8282\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{167E698B-D5A8-42F7-A6B3-88F856615889}|\u7B2C\u4E00\u8282.vcxproj|D:\\code\\C\\ACwing\\ACwingOJ\\\u7B2C\u4E00\u8282\\first.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{167E698B-D5A8-42F7-A6B3-88F856615889}|\u7B2C\u4E00\u8282.vcxproj|D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u7B2C\u4E00\u8282\\first.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{167E698B-D5A8-42F7-A6B3-88F856615889}|\u7B2C\u4E00\u8282.vcxproj|solutionrelative:first.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "first.cpp",
-              "DocumentMoniker": "D:\\code\\C\\ACwing\\ACwingOJ\\\u7B2C\u4E00\u8282\\first.cpp",
+              "DocumentMoniker": "D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u7B2C\u4E00\u8282\\first.cpp",
               "RelativeDocumentMoniker": "first.cpp",
-              "ToolTip": "D:\\code\\C\\ACwing\\ACwingOJ\\\u7B2C\u4E00\u8282\\first.cpp",
+              "ToolTip": "D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u7B2C\u4E00\u8282\\first.cpp",
               "RelativeToolTip": "first.cpp",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAkwI0AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAkwJAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-16T03:20:34.017Z",
               "EditorCaption": ""
