@@ -1,5 +1,2 @@
 ﻿  second.cpp
-D:\code\C\ACwing\ACwingOJ\代码\语法基础课\第二节\second.cpp(241,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\code\C\ACwing\ACwingOJ\代码\语法基础课\第二节\second.cpp(249,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\code\C\ACwing\ACwingOJ\代码\语法基础课\第二节\second.cpp(257,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
   第二节.vcxproj -> D:\code\C\ACwing\ACwingOJ\代码\语法基础课\第二节\x64\Debug\第二节.exe

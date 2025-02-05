@@ -341,3 +341,43 @@
 //		printf("R1 = %.5lf\nR2 = %.5lf", (-b + sqrt(b * b - 4 * a * c)) / (2 * a), (-b - sqrt(b * b - 4 * a * c)) / (2 * a));
 //	return 0;
 //}
+
+//661
+//#include<iostream>
+//#include<cstdio>
+//using namespace std;
+//int main()
+//{
+//    double n1, n2, n3, n4;
+//    cin >> n1 >> n2 >> n3 >> n4;
+//    double a1;
+//    a1 = (n1 * 2 + n2 * 3 + n3 * 4 + n4) / 10;
+//    printf("Media: %.1lf\n", a1);
+//    if (a1 >= 7.0)
+//    {
+//        cout << "Aluno aprovado." << endl;
+//    }
+//    else if (a1 < 5)
+//    {
+//        cout << "Aluno reprovado." << endl;
+//    }
+//    else
+//    {
+//        cout << "Aluno em exame." << endl;
+//        double y;
+//        cin >> y;
+//        printf("Nota do exame: %.1lf\n", y);
+//        double z;
+//        z = (a1 + y) / 2;
+//        if (z >= 5.0)
+//        {
+//            cout << "Aluno aprovado." << endl;
+//        }
+//        else
+//        {
+//            cout << "Aluno reprovado." << endl;
+//        }
+//        printf("Media final: %.1lf", z);
+//    }
+//    return 0;
+//}
