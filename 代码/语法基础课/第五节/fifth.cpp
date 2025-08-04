@@ -61,3 +61,49 @@
 //	cout << "false" << endl;
 //	return 0;
 //}
+
+//778
+#include<iostream>
+#include<string>
+using namespace std;
+int main()
+{
+	string s, s1, s2;
+	getline(cin, s, ',');
+	getline(cin, s1, ',');
+	getline(cin, s2);
+	if (s1.size() + s2.size() > s.size()) cout << -1 << endl;
+	else
+	{
+		int ss1 = 0, ss2 = -1;
+		for (int i = 0; i < s.size(); i++)
+		{
+			int j;
+			for (j = 0; j < s1.size(); j++)
+			{
+				if (s[i + j] != s1[j]) break;
+			}
+			if (j == s1.size())
+			{
+				ss1 = i + s1.size() - 1;
+				break;
+			}
+		}
+		for (int i = s.size() - 1; i >= 0; i--)
+		{
+			int j;
+			for (j = s2.size() - 1; j >= 0; j--)
+			{
+				if (s[i - (s2.size() - 1 - j)] != s2[j]) break;
+			}
+			if (j + 1 == 0)
+			{
+				ss2 = i - s2.size() + 1;
+				break;
+			}
+		}
+		if (ss2 <= ss1 || ss2 == -1 || ss1 == -1) cout << -1 << endl;
+		else cout << ss2 - ss1 - 1 << endl;
+	}
+	return 0;
+}
