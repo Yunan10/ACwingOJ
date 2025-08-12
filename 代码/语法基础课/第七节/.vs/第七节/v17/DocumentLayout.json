@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u8BED\u6CD5\u57FA\u7840\u8BFE\\\u7B2C\u4E03\u8282\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C19C797C-F6F6-42BB-A831-D7FFE4E6D296}|\u7B2C\u4E03\u8282.vcxproj|D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u8BED\u6CD5\u57FA\u7840\u8BFE\\\u7B2C\u4E03\u8282\\sventh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C19C797C-F6F6-42BB-A831-D7FFE4E6D296}|\u7B2C\u4E03\u8282.vcxproj|solutionrelative:sventh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sventh.cpp",
+              "DocumentMoniker": "D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u8BED\u6CD5\u57FA\u7840\u8BFE\\\u7B2C\u4E03\u8282\\sventh.cpp",
+              "RelativeDocumentMoniker": "sventh.cpp",
+              "ToolTip": "D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u8BED\u6CD5\u57FA\u7840\u8BFE\\\u7B2C\u4E03\u8282\\sventh.cpp",
+              "RelativeToolTip": "sventh.cpp",
+              "ViewState": "AgIAABcBAAAAAAAAAAAcwCEBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T03:20:54.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

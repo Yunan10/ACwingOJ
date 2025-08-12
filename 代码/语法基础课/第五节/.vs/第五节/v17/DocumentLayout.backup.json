@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u8BED\u6CD5\u57FA\u7840\u8BFE\\\u7B2C\u4E94\u8282\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F624726-C64B-454B-A374-D0E1C283BE02}|\u7B2C\u4E94\u8282.vcxproj|D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u8BED\u6CD5\u57FA\u7840\u8BFE\\\u7B2C\u4E94\u8282\\fifth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F624726-C64B-454B-A374-D0E1C283BE02}|\u7B2C\u4E94\u8282.vcxproj|solutionrelative:fifth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fifth.cpp",
+              "DocumentMoniker": "D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u8BED\u6CD5\u57FA\u7840\u8BFE\\\u7B2C\u4E94\u8282\\fifth.cpp",
+              "RelativeDocumentMoniker": "fifth.cpp",
+              "ToolTip": "D:\\code\\C\\ACwing\\ACwingOJ\\\u4EE3\u7801\\\u8BED\u6CD5\u57FA\u7840\u8BFE\\\u7B2C\u4E94\u8282\\fifth.cpp",
+              "RelativeToolTip": "fifth.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T12:29:22.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
